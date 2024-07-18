@@ -1,0 +1,21 @@
+
+/* font decleard */
+
+.inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+  
+  }
+
+  /* navber setup */
+
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content:space-between;
+    gap: 1rem;
+}
+  
